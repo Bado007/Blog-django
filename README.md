@@ -11,13 +11,27 @@ Blog is made for educational purposes with guidance from [Code Institute](https:
 
 Here is a [live preview](https://blogman-2022.herokuapp.com/) of the project. 
 
+<img width="1433" alt="Screenshot 2022-11-01 at 06 59 47" src="https://user-images.githubusercontent.com/103571907/199169196-0d2f9d2c-88f1-4f2f-8c55-4bd4fd13bce3.png">
+
+
 ## **Features**
 
  - Responsive navigation
  - Login & Sign up function
  - View and post coments
- - Likes
- - Admin Dashboard (approve comments functionality)
+ - Liking posts
+ - Admin Dashboard (approve comments functionality, approve posts, delete,...)
+ - Alerts
+ - Summernote text editor
+ - Data and Images stored on database
+
+<img width="1440" alt="Screenshot 2022-11-01 at 06 36 21" src="https://user-images.githubusercontent.com/103571907/199169300-a8bc5d3b-043f-4985-bed2-d853a669d511.png">
+
+<img width="1440" alt="Screenshot 2022-11-01 at 07 00 43" src="https://user-images.githubusercontent.com/103571907/199169380-30ae5bf0-327b-475c-9332-92bee08093c8.png">
+ 
+<img width="816" alt="Screenshot 2022-11-01 at 06 53 14" src="https://user-images.githubusercontent.com/103571907/199169570-f579d163-37bd-40e7-8c85-7e6dbff94a72.png">
+ 
+<img width="1139" alt="Screenshot 2022-11-01 at 06 58 55" src="https://user-images.githubusercontent.com/103571907/199169440-9fef7bd1-b5c3-4a4b-ab67-1f37b89f12e7.png">
 
 > **Admin login information:**
 > Username: *admin*
@@ -38,7 +52,7 @@ Technologies and their versions being used in this project:
  - [Bootstrap](https://getbootstrap.com/) 4
 
 #### Packages, Libraries, Databases
- -  [OAuthLib](https://oauthlib.readthedocs.io) 3.3.4
+ - [OAuthLib](https://oauthlib.readthedocs.io) 3.3.4
  - [Asgiref](https://pypi.org/project/asgiref/1.1.1/) 1.1
  - [Dj-database-url](https://pypi.org/project/dj-database-url/) 1.0.
  - [Django-allauth](https://django-allauth.readthedocs.io/en/latest/) 0.44.0
