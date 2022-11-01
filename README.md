@@ -127,3 +127,4 @@ Steps I took for deployment:
  - [Kalle Hallden](https://www.youtube.com/c/KalleHallden/videos)  - awesome videos with explenations.
  - [W3Schools](https://www.w3schools.com/python/python_for_loops.asp)  - detailed explanations and runnable examples.
  - [Django](https://www.djangoproject.com) Documentation.
+ - This code is not my creation. I only followed the steps from [Matt](https://www.linkedin.com/in/mattrudge73/)
