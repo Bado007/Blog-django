@@ -85,6 +85,7 @@ During the coding, I encountered few bugs:
 -  Deployment issues (unable to deploy to Heroku)
 -  Rendering issues (due to typos and wrong syntax)
 -  Styles not being loaded (due to DEBUG turned TRUE in 'setting . py')
+-  Unable to create screenshot of the application on the [Am I responsive](https://ui.dev/amiresponsive?url=https://blogman-2022.herokuapp.com/admin/blog/post/) website.
  
 > Disclaimer! There are few lines of code in the project that exceed 79 characters.
 
